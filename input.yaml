@@ -1,0 +1,20 @@
+exposure: Exposure
+renewal: Renewal
+renewals: Renewals
+providers: Providers
+agents: Agents
+ID: ID
+txn-type: Transaction
+submission: Submission
+submissions: Submissions
+recent-accounts: Recently viewed
+middleInitial: Middle Initial
+costNew: Cost New
+cost: Cost
+policy-fields: Policy (Underwriting Data)
+location-level-fields: Location (Underwriting Data)
+Smartphone: Smartphone
+LTC: Long Term Care
+customerNum: Customer No.
+select-option: select...
+file: file
